@@ -1,0 +1,34 @@
+body {
+    text-align: center;
+}
+
+header {
+    height: 40px;
+    background-color: #50495c;
+}
+
+nav {
+    height: 25px;
+    background-color: #f5e342
+}
+
+article {
+    height: 600px;
+    line-height: 30px;
+    border: solid 2px;
+    border-color: #ff0000;
+    border: solid 1px;
+}
+
+aside {
+    border: solid 1px;
+    border-color: white;
+}
+#kuva {
+    image-rendering: auto;
+}
+footer {
+    background-color: #0080ff;
+    border: solid 1px;
+    height: 20px;
+}

@@ -1,0 +1,19 @@
+body {
+    background-color: #DCDCDC;
+    font-family: 'Verdana', 'Arical';
+    margin: 30px;
+    }
+    h1{
+        color: #DC143C; 
+        font-family: 'Trebuchet MS', 'Times New Roman', 
+      }
+    img{
+         width: 30%;
+
+        }
+    p.esimerkki {
+        background-color: black;
+        color: white;
+        font-family: courier;
+        padding: 20px;
+                }

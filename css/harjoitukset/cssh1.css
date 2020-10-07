@@ -1,0 +1,21 @@
+body {
+    background-color: #DCDCDC;
+    font-family: 'times new Roman', Times,serif;
+    margin: 25px;
+}
+h1 {
+    color: #DC143C; 
+    font-family: 'Times New Roman', Times, serif; 
+}
+h4 {
+    color: #0000ff; 
+    font-family: 'Times New Roman', Times, serif; 
+}
+img {
+    width: 75%;
+
+}
+p.esimerkki {
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+}

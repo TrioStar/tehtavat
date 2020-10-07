@@ -1,0 +1,81 @@
+<!doctype html>  
+<html lang="fi">  
+<head>  
+	<meta charset="utf-8" />  
+	<title>CSS-demo</title>
+	<link rel="stylesheet" type="text/css" href="css.css">
+</head>
+<body>
+<ul>
+	<li><a href="ohjelma.html">Ohjelma</a></li>
+	<li><a href="materiaali.html">Materiaali</a></li>
+	<li><a href="harjoitukset.html">Harjoitukset</a></li>
+	<li><a href="ops.html">OPS</a></li>
+</ul>
+<h1>CSS</h1>
+<p>Cascading Style Sheet, CSS on HTML-kielen rinnalle kehitetty tyylikieli. Sillä voidaan määrittää HTML-elementin ulkoasu ja kertoa elementtien paikka näytöllä (tai muissa laitteissa).  
+<ul>
+	<li>Style eli tyyli määrittää HTML-elementtien ulkoasun.</li>
+    <li>Style Sheet eli tyyliarkki kokoaa tyylisäännöt yhteen.</li>
+    <li>Cascading Style Sheet eli porrastetut tyyliarkit. Säännöt voivat mennä päällekkäin jolloin Cascading sääntö määrää, mikä sääntö on voimassa.</li>  
+</ul>
+<img src="editori.png" alt="kuva editorista">
+<h2>CSS:n yhdistäminen HTML-dokumenttiin</h2>
+<h3>Upotus</h3>
+	<p>Upotus toimii vain siinä  dokumentissa, jossa se on tehty ja sen takia tyyliä on helppo muuntaa. Tämä on hyvä tapa, kun ensimmäisen kerran aloittaa tyylin määrittelyä. Tyyliosion voi leikata myöhemmin erilliseksi dokumentiksi.  Käytetään &lt;style> -elementtiä, joka sijoitetaan  html-dokumentin &lt;head> osaan.  Style elementillä on pakollinen parametri type, jolla on arvo "text/css", tai "text/javascript" jos tyyli määritellään JavaScriptillä.</p>
+	<p>Esim:
+	  <br>      &lt;html> 
+	  <br>&lt;head>&lt;title>...&lt;/title>    
+	  <br> &lt;style type="text/css">    
+	  <br> &lt;!--    
+	  <br> p { color: blue; font-size: 14pt}    
+	  <br> h1,h2 { color:red }    
+	  <br> -->    
+	  <br>&lt;/style>     
+	  <br>  &lt;/head>     
+	  <br>   &lt;body>...    
+	</p>
+
+<h3>Linkitys</h3>
+	<p> Tehokkain tapa käyttää CSS -sääntöjä on koota tyylimääritteet erilliseksi tiedostoksi, joka sitten linkitetään haluttuihin (useisiin) dokumentteihin. Tyylin muuttaminen on helppoa, koska päivitettäessä muutetaan vain tyylitiedosta.
+	<p>CSS-määritteet tallennetaan normaaliksi tekstitiedostoksi, jonka tarkenne on aina css. html- dokumentteihin laitetaan &lt;head>-osaan &lt;link> -elementti, joka kutsuu halutun tyylitiedoston.
+	<p>Esim. oma.css  
+		<br> p { margin:50px }    
+		<br>  h4{ font-size:14pt }    
+		<br>  .red { 
+		<br> color: red }  
+		<br>  Linkitet&auml;&auml;n se HTML-dokumenttiin:  
+		<br>    &lt;html>    
+		<br> &lt;head>&lt;title>...&lt;/title>    
+		<br> &lt;link rel="stylesheet" type="text/css"  href="oma.css">  
+		<br> &lt;/head>  
+		<br> &lt;body>..
+	</p>
+
+<p>Link -elementin tulee sisältää seuraavat osat:  
+	<ul>
+		<li>rel="stylesheet"</li>
+		<li>type="text/css"</li>
+		<li>href="jotain.css"</li>
+	</ul>
+	
+<h3>@-Sääntö (tuominen )</h3>
+	<p>Toinen tapa käyttää ulkoista tyyliarkkia on käyttää @import-notaatiota. Tällöiin on mahdollista yhdistellä eri välineille tarkoitettuja tyyliarkkeja. @-sääntö alkaa @-merkillä ja loppuu aina puolipisteeseen ( ; )
+	</p>
+	<p>Esim.<br>
+		@import "main.css";
+	</p>   
+
+<h3>  Elementin sisäinen tyyli</h3>
+	<p>html 4.0 -> mahdollistaa tyylin kytkemisen style- parametrilla suoraan HTML-elementtiin- (P, A, H, UL jne.). Määrittely on voimassa elementin lopetustagiin &lt;/> asti.</p>
+	<p>Esim.<br>
+		&lt;p style="margin-left:100px;color:red">...&lt;/p> 
+	</p>
+	<p>CSS1:n ja CSS2:n syntaksi on sama. Syntaksin on olatava oikein, sillä muuten tyylisivu ei toimi.</p>
+	
+<h2>Avainsanat (Key Word)</h2>
+	<p>ei saa sijoittaa lainaus- eikä heittomerkkien väliin
+	</p>
+<h2>Merkit ja kirjainkoot</h2>
+	<p>Tyylisivut erottelevat roisistaan isot ja pienet kirjaimet. Elementtien nimet, luokat ja ID:t voivat sisältää vain merkit A - Z, a - z ja 0 -9, siis skandit on kielletty, eivät voi alkaa viivalla tai numerolla
+	</p>

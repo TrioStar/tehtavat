@@ -1,0 +1,756 @@
+<!DOCTYPE html><!-- START of: finna - layout/layout.phtml -->
+<html lang="fi">
+  <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+        <meta name="format-detection" content="telephone=no" />
+    
+          <link rel="apple-touch-icon" sizes="180x180" href="/themes/custom/images/webapp-icon-180.png?_=1542713989">
+              <link rel="manifest" href="/themes/custom/images/manifest.json?_=1567684367">
+    
+    <meta http-equiv="Content-Type" content="text&#x2F;html&#x3B;&#x20;charset&#x3D;UTF-8">
+<meta name="format-detection" content="telephone&#x3D;no">
+<meta property="og&#x3A;title" content="Tredu&#x20;Sammonkatu,&#x20;p&#xE4;&#xE4;aula,&#x20;portaat&#x20;kolmanteen&#x20;kerrokseen.">
+<meta property="og&#x3A;description" content="Kuva">
+<meta property="article&#x3A;author" content="Mirkku&#x20;Haapasaari">
+<meta property="og&#x3A;image" content="https&#x3A;&#x2F;&#x2F;www.finna.fi&#x2F;Cover&#x2F;Show&#x3F;id&#x3D;siiri.urn&#x25;3Anbn&#x25;3Afi-vapriikkihttp&#x25;253A&#x25;252F&#x25;252Fwww.profium.com&#x25;252Farchive&#x25;252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8&amp;index&#x3D;0&amp;size&#x3D;large">
+<meta name="twitter&#x3A;image" content="https&#x3A;&#x2F;&#x2F;www.finna.fi&#x2F;Cover&#x2F;Show&#x3F;id&#x3D;siiri.urn&#x25;3Anbn&#x25;3Afi-vapriikkihttp&#x25;253A&#x25;252F&#x25;252Fwww.profium.com&#x25;252Farchive&#x25;252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8&amp;index&#x3D;0&amp;size&#x3D;large">
+<meta name="twitter&#x3A;card" content="summary">
+<meta name="twitter&#x3A;site" content="&#x40;finnafi">
+<meta name="twitter&#x3A;title" content="Tredu&#x20;Sammonkatu,&#x20;p&#xE4;&#xE4;aula,&#x20;portaat&#x20;kolmanteen&#x20;kerrokseen.">
+<meta name="twitter&#x3A;description" content="Kuva">
+<meta name="Generator" content="Finna">    <title>Tredu Sammonkatu, pääaula, portaat kolmanteen kerrokseen. | Museokeskus Vapriikki | Finna.fi</title>        <link href="&#x2F;cache&#x2F;f89fe4d66436300767dfd4fdaa8e462f.min.css" media="all" rel="stylesheet" type="text&#x2F;css">
+<link href="&#x2F;themes&#x2F;bootstrap3&#x2F;css&#x2F;print.css" media="print" rel="stylesheet" type="text&#x2F;css">
+<!--[if lt IE 10]><link href="&#x2F;cache&#x2F;325090eca4871c265667410fdc79a16d.min.css" media="" rel="stylesheet" type="text&#x2F;css"><![endif]-->
+<link href="&#x2F;themes&#x2F;custom&#x2F;images&#x2F;favicon.ico&#x3F;_&#x3D;1522922122" rel="shortcut&#x20;icon" type="image&#x2F;x-icon">
+<link href="&#x2F;Search&#x2F;OpenSearch&#x3F;method&#x3D;describe" rel="search" type="application&#x2F;opensearchdescription&#x2B;xml" title="Haku&#x20;kirjastoluettelosta">
+<!--[if lte IE 9]><link href="&#x2F;themes&#x2F;finna2&#x2F;css&#x2F;ie9-and-lower.css" media="screen" rel="stylesheet" type="text&#x2F;css"><![endif]-->
+<!--[if lt IE 9]><link href="&#x2F;themes&#x2F;finna2&#x2F;css&#x2F;ie8-and-lower.css" media="screen" rel="stylesheet" type="text&#x2F;css"><![endif]-->                    <script >
+    //<!--
+    path = '';module = 'record';action = 'view';
+    //-->
+</script>
+<script  src="&#x2F;cache&#x2F;5767b0982bada683188f48ef5fb691ab.min.js"></script>
+<!--[if lt IE 9]><script  src="&#x2F;themes&#x2F;finna2&#x2F;js&#x2F;vendor&#x2F;event-stub.js&#x3F;_&#x3D;1567684367"></script><![endif]-->
+<script >
+    //<!--
+    var userIsLoggedIn = false;
+    //-->
+</script>
+<script >
+    //<!--
+    var keepAliveInterval = 300
+    //-->
+</script>
+<script >
+    //<!--
+    VuFind.path = '';
+VuFind.defaultSearchBackend = 'Solr';
+VuFind.addTranslations({"map_zoom_in": "Lähennä","map_zoom_out": "Loitonna","change_hold_success": "Varaus muutettu","show_more": "Lisää","show_less": "Vähemmän","Organisation": "Organisaatio","location-service": "Kirjastokartta","login": "Kirjaudu","none_selected": "Mikä tahansa","selected": "valittu","shelf_location": "Hylly","request_change_done": "Muutospyyntö lähetetty. Muutokset näkyvät vasta, kun pyyntö on hyväksytty.","other_records": "Muita aineistoja","records": "Aineistoja","search_placeholder": "Etsi","Image": "Kuva","show_filters": "Näytä rajaukset","hide_filters": "Piilota rajaukset","add_tag_success": "Tagit tallennettu","bulk_email_success": "Tietueet lähetetty","bulk_noitems_advice": "Ei valittuja tietueita. Rastita tietueen viereinen laatikko.","bulk_save_success": "Tietueet tallennettu onnistuneesti","close": "sulje","collection_empty": "Arkistoon/kokoelmaan ei sisälly tietueita.","error_occurred": "Tapahtui virhe","go_to_list": "Näytä lista","libphonenumber_invalid": "Virheellinen puhelinnumero","libphonenumber_invalidcountry": "Virheellinen maakoodi","libphonenumber_invalidregion": "Virheellinen aluekoodi:","libphonenumber_notanumber": "Annettu arvo ei näyttänyt puhelinnumerolta","libphonenumber_toolong": "Annettu arvo on liian pitkä ollakseen puhelinnumero","libphonenumber_tooshort": "Annettu arvo on liian lyhyt ollakseen puhelinnumero","libphonenumber_tooshortidd": "Liian lyhyt puhelinnumero maakoodin jälkeen","loading": "Ladataan","more": "lisää","number_thousands_separator": " ","sms_success": "Viesti lähetetty.","radiusPrefix": "Säde","circleCaption": "Rajaa alue","clearCaption": "Tyhjennä rajaukset","removeCaption": "Tyhjennä","street_search_geolocation_inactive": "Selaimesi asetukset estävät paikannuksen.","street_search_checking_for_geolocation": "Tarkistetaan sijaintia","street_search_geolocation_available": "Selaimesi tukee paikannusta. Haetaan sijaintiasi...","street_search_geolocation_position_unavailable": "Sijaintisi ei ole tällä hetkellä saatavissa.","street_search_geolocation_other_error": "Sijaintisi haku epäonnistui tuntemattomasta syystä. Tarkista että selaimesi tukee paikannusta.","street_search_timeout": "Paikannus keskeytettiin, koska se kesti liian kauan. Haku toimii parhaiten ulkotiloissa.","street_search_no_streetname_found": "street_search_no_streetname_found","street_search_reversegeocode_unavailable": "street_search_reversegeocode_unavailable","street_search_searching_for": "street_search_searching_for","street_search_coordinates_found": "Sijaintisi on löydetty.","street_search_coordinates_found_accuracy_bad": "Sijaintisi on löydetty, mutta paikannuksen tarkkuus voi olla huono.","Prev": "Edellinen","Next": "Seuraava","\'Phone number invalid\'": "Virheellinen puhelinnumero","\'Invalid country calling code\'": "Virheellinen maakoodi","\'Invalid region code\'": "Virheellinen aluekoodi:","\'The string supplied did not seem to be a phone number\'": "Annettu arvo ei näyttänyt puhelinnumerolta","\'The string supplied is too long to be a phone number\'": "Annettu arvo on liian pitkä ollakseen puhelinnumero","\'The string supplied is too short to be a phone number\'": "Annettu arvo on liian lyhyt ollakseen puhelinnumero","\'Phone number too short after IDD\'": "Liian lyhyt puhelinnumero maakoodin jälkeen","autocomplete_phrase": "Hae täsmälleen","autocomplete_section_suggestion": "Ehdotukset","autocomplete_section_facet": "Rajaukset","Title": "Hae otsikoista","Author": "Hae tekijöistä","Subject": "Hae aiheista"});
+    //-->
+</script>          <!-- START of: finna - layout/Additions/general-post-head.phtml -->
+
+<!-- END of: finna - layout/Additions/general-post-head.phtml -->
+      </head>
+  <body class="template-dir-record template-name-view ">
+    <!-- START of: finna - search/modals.phtml -->
+<!-- BASIC MODAL IN CASE WE NEED ONE -->
+<div id="modal" class="modal fade hidden-print" tabindex="-1" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <button type="button" class="close" data-dismiss="modal" aria-label="sulje"></button>
+      <div class="modal-body">Ladataan...</div>
+    </div>
+  </div>
+</div>
+
+<!-- IMAGEPOPUP MODAL -->
+<div id="imagepopup-modal" hidden>
+  <div class="imagepopup-holder" aria-hidden="true">
+    <div class="imagepopup-container">
+      <div class="popup-canvas paginator-canvas">
+        <button class="next-image left" type="button"><i class="fa fa-chevron-left"></i></button>
+        <div class="popup-nonzoom non-zoomable">
+          <div class="iconlabel"></div>
+          <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" />
+        </div>
+        <div class="leaflet-map-image image-wrapper">
+          <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" />
+          <div class="imagepopup-zoom-container">
+            <div class="zoom-in zoom-button"><i class="fa fa-zoom-in" aria-hidden="true"></i></div>
+            <div class="zoom-out zoom-button"><i class="fa fa-zoom-out" aria-hidden="true"></i></div>
+            <div class="zoom-reset zoom-button"><i class="fa fa-zoom-100" aria-hidden="true"></i></div>
+          </div>
+          <div class="leaflet-image-loading">
+          </div>
+        </div>
+        <div class="popup-video video-popup"><video class="video-js vjs-big-play-centered" controls></video></div>
+        <button class="next-image right" type="button"><i class="fa fa-chevron-right"></i></button>
+      </div>
+      <div class="finna-image-pagination">
+      </div>
+    </div>
+    <div class="image-information-holder">
+      <div class="collapse-content-holder">
+      </div>  
+      <div class="record-informations">
+        <div class="record-index">
+          <span class="total"></span>
+        </div>
+        <div class="paginator-info">
+          <span class="image-index"></span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- END of: finna - search/modals.phtml -->
+        <header class="hidden-print">
+              <!-- START of: finna - Helpers/cookie-consent.phtml -->
+<div class="container-fluid cookie-consent">
+  <div class="cookie-consent-text">
+    Tämä sivusto käyttää evästeitä toimiakseen mahdollisimman hyvin. <a href="/Content/privacy#cookies">Lue lisää evästeistä</a>.  </div>
+  <div class="nav navbar-nav nav-absolute cookie-consent-button">
+    <button class="btn btn-primary cookie-consent-dismiss" aria-label="Hyväksy evästeet">OK</button>
+  </div>
+</div>
+<!-- END of: finna - Helpers/cookie-consent.phtml -->
+                        <div class="container-fluid navbar">
+        <div>
+                      <span class="sr-only"><a class="sr-only" href="#searchForm_lookfor">Siirry hakuun</a></span>
+                    <a class="sr-only" href="#content">Siirry sisältöön</a>
+          <!-- START of: finna - navibar.phtml -->
+<div role="navigation" class="finna-navbar">
+  <div class="navbar-header">
+    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#header-collapse" aria-label="P&#xE4;&#xE4;navigaatio" aria-expanded="false">
+      <i class="fa fa-bars" aria-hidden="true"></i>
+      <i class="fa fa-times" aria-hidden="true"></i>
+    </button>
+    <a class="navbar-brand" href="/"><!-- START of: finna - navibar-logo.phtml -->
+  <span class="sr-only">Koti</span>
+  <img src="/themes/custom/images/finna-logo.png?_=1519904199" alt="Site Logo" class="navbar-logo" aria-hidden="true" />
+<!-- END of: finna - navibar-logo.phtml -->
+</a>  </div>
+      <div class="collapse navbar-collapse" id="header-collapse">
+      <ul role="menubar" class="nav navbar-nav navbar-main">
+                              <li class="dropdown" id="menu_search">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-nav-menu_search" aria-hidden="true"></i>Hakutoiminnot <b class="caret" aria-hidden="true"></b></a>
+              <ul role="group" class="dropdown-menu" aria-labelledby="menu_search">
+                                                <li>
+                  <a  role="menuitem"  href="/Search/Advanced">
+                    <div>Tarkennettu haku</div>
+                                          <div class="description" role="note">Tarkemmat hakuehdot. </div>
+                                      </a>
+                </li>
+                                                <li>
+                  <a  role="menuitem"  href="/Search/History">
+                    <div>Hakuhistoria</div>
+                                          <div class="description" role="note">Istuntokohtainen hakuhistoriasi. Kirjautumalla voit tallentaa hakusi.</div>
+                                      </a>
+                </li>
+                              </ul>
+            </li>
+                                        <li class="dropdown" id="menu_about_us">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-nav-menu_about_us" aria-hidden="true"></i>Tietoa Finnasta <b class="caret" aria-hidden="true"></b></a>
+              <ul role="group" class="dropdown-menu" aria-labelledby="menu_about_us">
+                                                <li>
+                  <a  role="menuitem"  href="/Content/organisations">
+                    <div>Ketkä ovat mukana?</div>
+                                          <div class="description" role="note">Osallistuvat organisaatiot. Voinko käyttää aineistoja? Aiheesta muualla. </div>
+                                      </a>
+                </li>
+                                                <li>
+                  <a  role="menuitem"  href="/Content/about">
+                    <div>Mikä Finna on?</div>
+                                          <div class="description" role="note">Finna.fi. Muut Finna-hakupalvelut. Sähköiset aineistot. Finna on muutakin kuin hakupalvelu. Tietoa Finnasta.</div>
+                                      </a>
+                </li>
+                              </ul>
+            </li>
+                                        <li><a  href="/Content/help"><i class="fa fa-nav-menu_help" aria-hidden="true"></i>Ohje</a></li>
+                                                            <!-- START of: finna - layout/Additions/header-navibar.phtml -->
+<li class="custom">
+  <a href="https://www.facebook.com/finnapalvelu" target="_blank"><i class="fa fa-facebook-button"></i><span class="sr-only visible-md visible-lg">Facebook-sivut</span><span class="hidden-sm hidden-md hidden-lg"> Facebook-sivut</span></a>
+</li>
+<li class="custom">
+  <a href="https://www.instagram.com/finna.fi" target="_blank"><i class="fa fa-instagram"></i><span class="sr-only visible-md visible-lg">Finna Instagram</span><span class="hidden-sm hidden-md hidden-lg"> Finna Instagram</span></a>
+</li>
+<li class="custom">
+  <a href="https://www.youtube.com/channel/UCjZf-hMtbx1CUK65gIiYjKw" target="_blank"><i class="fa fa-youtube-play"></i><span class="sr-only visible-md visible-lg">Finna Instagram</span><span class="hidden-sm hidden-md hidden-lg"> Finna YouTube</span></a>
+</li>
+<li class="custom">
+  <a href="https://twitter.com/finnafi" target="_blank"><i class="fa fa-twitter"></i><span class="sr-only visible-md visible-lg">Finna Twitter</span><span class="hidden-sm hidden-md hidden-lg"> Finna Twitter</span></a>
+</li>
+<!-- END of: finna - layout/Additions/header-navibar.phtml -->
+              </ul>
+      <ul role="menubar" class="nav navbar-nav lang">
+                                                                            <li class="lang">
+                <a role="menuitem" class="preserve-anchor" href="https&#x3A;&#x2F;&#x2F;www.finna.fi&#x2F;Record&#x2F;siiri.urn&#x3A;nbn&#x3A;fi-vapriikkihttp&#x25;253A&#x25;252F&#x25;252Fwww.profium.com&#x25;252Farchive&#x25;252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8&#x3F;lng&#x3D;sv">Sv</a>
+              </li>
+                                                              <li class="lang">
+                <a role="menuitem" class="preserve-anchor" href="https&#x3A;&#x2F;&#x2F;www.finna.fi&#x2F;Record&#x2F;siiri.urn&#x3A;nbn&#x3A;fi-vapriikkihttp&#x25;253A&#x25;252F&#x25;252Fwww.profium.com&#x25;252Farchive&#x25;252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8&#x3F;lng&#x3D;en-gb">En</a>
+              </li>
+                                                  </ul>
+                            <ul role="menu" class="nav navbar-nav nav-login">
+          <li class="nav-login" id="loginOptions-navi">
+                                    <div>
+                <a href="/MyResearch/UserLogin" class="btn btn-primary btn-uppercase" data-lightbox data-lightbox-onclose="window.location.href='&#x2F;MyResearch&#x2F;Home'"><i class="fa fa-user fa-lg" aria-hidden="true"></i><span class="login-text">Kirjaudu</span></a>
+              </div>
+                                </li>
+        </ul>
+              </div>
+    <ul role="menubar" aria-label="Oma tili" class="nav navbar-nav nav-absolute">
+                      <li id="loginOptions">
+                                    <div>
+                <a href="/MyResearch/UserLogin" class="btn btn-primary btn-uppercase" data-lightbox data-lightbox-onclose="window.location.href='&#x2F;MyResearch&#x2F;Home'"><i class="fa fa-user fa-lg" aria-hidden="true"></i><span class="login-text">Kirjaudu</span></a>
+              </div>
+                              </li>
+          </ul>
+  </div>
+<!-- END of: finna - navibar.phtml -->
+        </div>
+      </div>
+    </header>
+    <section role="search" class="searchContent">
+      <h1 class="sr-only">Haku</h1>
+                    <div class="search-form-container ">
+        <div class="container">
+                                    <nav class="breadcrumbs">
+            <div class="hidden-print">
+              <ul class="breadcrumb">
+                                  <li><li class="active"><a href="/Record/siiri.urn:nbn:fi-vapriikkihttp%253A%252F%252Fwww.profium.com%252Farchive%252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8">Tredu Sammonkatu, pääaula, por...</a></li> <li class="active">Kommentit</li><li class="active">Kommentit</li>                              </ul>
+            </div>
+          </nav>
+        
+                    <!-- START of: finna - search/searchbox.phtml -->
+  <nav class="nav searchbox hidden-print">
+  <div class=" searchbox-flex">
+          <div class="record-back hidden-print">
+                </div>
+        <div class="search">
+      <form id="searchForm" role="search" class="searchForm navbar-form navbar-left  " method="get" action="/Search/Results" name="searchForm" autocomplete="off">
+      <label for="searchForm_lookfor" class="sr-only" hidden>Hae</label>
+      <input class="searchForm_lookfor form-control search-query autocomplete-finna searcher:Solr tab:Solr handlers:Title|Author|Subject phrase:1" placeholder="Hae..." id="searchForm_lookfor" type="text" name="lookfor" value=""/>
+      <span class="clear-button hidden"></span>
+              <div class="dropdown form-control type-dropdown">
+                <input id="searchForm_type" type="hidden" name="type" value="AllFields" class="searchForm_type" />
+        <a href="#" class="dropdown-toggle" aria-haspopup="true" aria-expanded="false" aria-label="Rajaa hakua" data-toggle="dropdown"><span>Kaikki osumat</span><b class="caret"></b></a>
+        <ul class="dropdown-menu" role="menu">
+                      <li role="menuitem">
+              <input type="hidden" value="AllFields" />
+              <a class="select-type" href="#">Kaikki osumat</a>
+            </li>
+                      <li role="menuitem">
+              <input type="hidden" value="Title" />
+              <a class="select-type" href="#">Otsikko</a>
+            </li>
+                      <li role="menuitem">
+              <input type="hidden" value="Author" />
+              <a class="select-type" href="#">Tekijä</a>
+            </li>
+                      <li role="menuitem">
+              <input type="hidden" value="Subject" />
+              <a class="select-type" href="#">Aihe</a>
+            </li>
+                  </ul>
+      </div>
+            <button type="submit" class="btn btn-primary "><i class="fa fa-search" aria-hidden="true"></i> <span class="sr-only">Hae</span></button>
+
+                                                </form>
+    </div>
+    <div class="search-tooltip">
+              <a href="/Search/Advanced" class="btn btn-link btn-advanced visible-lg"><i class="fa fa-search-adv"></i>Tarkennettu haku</a>
+                      </div>
+                      </div>
+</nav>
+<!-- END of: finna - search/searchbox.phtml -->
+              </div>
+    </div>
+          </section>
+
+        <section role="main" class="main template-dir-record template-name-view">
+                                    <div id="content" class="container main-content">
+        <!-- START of: finna - record/view.phtml -->
+</div>
+<div class="container">
+<div class="record sourceSolr record-row large-image-layout">
+  <div>
+      <!-- START of: finna - RecordDriver/DefaultRecord/toolbar.phtml -->
+<div class="hidden-xs">
+  <ul class="nav nav-pills hidden-print">
+      <li><a class="save-record" data-lightbox href="/Record/siiri.urn:nbn:fi-vapriikkihttp%253A%252F%252Fwww.profium.com%252Farchive%252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8/Save" title="Lisää suosikkeihin" rel="nofollow"><i class="fa fa-plus" aria-hidden="true"></i><span class="hidden-xs"> Lisää suosikkeihin</span></a></li>
+      <li><a class="mail-record" data-lightbox href="/Record/siiri.urn:nbn:fi-vapriikkihttp%253A%252F%252Fwww.profium.com%252Farchive%252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8/Email" title="Lähetä sähköpostilla" rel="nofollow"><i class="fa fa-envelope" aria-hidden="true"></i><span class="hidden-xs"> Lähetä sähköpostilla</span></a></li>
+        <li class="dropdown">
+      <a class="export-toggle dropdown-toggle" data-toggle="dropdown" href="/Record/siiri.urn:nbn:fi-vapriikkihttp%253A%252F%252Fwww.profium.com%252Farchive%252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8/Export" rel="nofollow"><i class="fa fa-list-alt" aria-hidden="true"></i><span class="hidden-xs"> Vie viite</span></a>
+      <ul class="dropdown-menu" role="menu">
+                  <li><a href="/Record/siiri.urn:nbn:fi-vapriikkihttp%253A%252F%252Fwww.profium.com%252Farchive%252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8/Export?style=RefWorks" rel="nofollow">Vienti:  RefWorks</a></li>
+                  <li><a target="EndNoteWebMain" href="/Record/siiri.urn:nbn:fi-vapriikkihttp%253A%252F%252Fwww.profium.com%252Farchive%252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8/Export?style=EndNoteWeb" rel="nofollow">Vienti:  EndNoteWeb</a></li>
+                  <li><a href="/Record/siiri.urn:nbn:fi-vapriikkihttp%253A%252F%252Fwww.profium.com%252Farchive%252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8/Export?style=EndNote" rel="nofollow">Vienti:  EndNote</a></li>
+                  <li><a href="/Record/siiri.urn:nbn:fi-vapriikkihttp%253A%252F%252Fwww.profium.com%252Farchive%252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8/Export?style=BibTeX" rel="nofollow">Vienti:  BibTeX</a></li>
+                  <li><a href="/Record/siiri.urn:nbn:fi-vapriikkihttp%253A%252F%252Fwww.profium.com%252Farchive%252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8/Export?style=RIS" rel="nofollow">Vienti:  RIS</a></li>
+              </ul>
+    </li>
+        <li><a class="cite-record" data-lightbox href="/Record/siiri.urn:nbn:fi-vapriikkihttp%253A%252F%252Fwww.profium.com%252Farchive%252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8/Cite" title="Viitetiedot" rel="nofollow"><i class="fa fa-asterisk" aria-hidden="true"></i><span class="hidden-xs"> Viitetiedot</span></a></li>
+    <li class="hidden-xs hidden-sm"><span><a href="javascript:window.print()" rel="nofollow"><i class="fa fa-print" aria-hidden="true"></i> Tulosta</a></span></li>
+      <li class="dropdown">
+    <a class="dropdown-toggle finnaQrcodeLinkRecord" data-toggle="dropdown" href="&#x2F;QRCode&#x2F;Show&#x3F;text&#x3D;https&#x25;3A&#x25;2F&#x25;2Fwww.finna.fi&#x25;2FRecord&#x25;2Fsiiri.urn&#x25;3Anbn&#x25;3Afi-vapriikkihttp&#x25;25253A&#x25;25252F&#x25;25252Fwww.profium.com&#x25;25252Farchive&#x25;25252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8&amp;level&#x3D;L&amp;size&#x3D;3&amp;margin&#x3D;4" rel="nofollow"><i class="fa fa-qr-code" aria-hidden="true"></i><span class="hidden-xs"> QR-koodi</span></a>
+    <ul class="dropdown-menu" role="menu">
+      <li class="text-center">
+        <script type="text/template" class="qrCodeImgTag">
+          <img src="&#x2F;QRCode&#x2F;Show&#x3F;text&#x3D;https&#x25;3A&#x25;2F&#x25;2Fwww.finna.fi&#x25;2FRecord&#x25;2Fsiiri.urn&#x25;3Anbn&#x25;3Afi-vapriikkihttp&#x25;25253A&#x25;25252F&#x25;25252Fwww.profium.com&#x25;25252Farchive&#x25;25252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8&amp;level&#x3D;L&amp;size&#x3D;3&amp;margin&#x3D;4" alt="" class="qrcode"/>
+        </script>
+      </li>
+    </ul>
+  </li>
+    <li>
+        </li>
+        <li class="share-buttons addthis-share-buttons">
+  <div class="share-buttons-toolbox addthis_toolbox addthis_default_style">
+    <a class="share-button-facebook" title="Facebook" aria-label="Facebook" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.finna.fi%2FRecord%2Fsiiri.urn%3Anbn%3Afi-vapriikkihttp%25253A%25252F%25252Fwww.profium.com%25252Farchive%25252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8%3Flng%3Dfi&amp;title=Tredu+Sammonkatu%2C+p%C3%A4%C3%A4aula%2C+portaat+kolmanteen+kerrokseen." target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+    <a class="share-button-twitter" title="Twitter" aria-label="Twitter" href="https://twitter.com/share?url=https%3A%2F%2Fwww.finna.fi%2FRecord%2Fsiiri.urn%3Anbn%3Afi-vapriikkihttp%25253A%25252F%25252Fwww.profium.com%25252Farchive%25252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8%3Flng%3Dfi&amp;text=Tredu+Sammonkatu%2C+p%C3%A4%C3%A4aula%2C+portaat+kolmanteen+kerrokseen." target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+    <a class="share-button-pinterest" title="Pinterest" aria-label="Pinterest" href="https://pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.finna.fi%2FRecord%2Fsiiri.urn%3Anbn%3Afi-vapriikkihttp%25253A%25252F%25252Fwww.profium.com%25252Farchive%25252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8%3Flng%3Dfi&amp;is_video=0&amp;description=Tredu+Sammonkatu%2C+p%C3%A4%C3%A4aula%2C+portaat+kolmanteen+kerrokseen." target="_blank"><i class="fa fa-pinterest" aria-hidden="true"></i></a>
+    <!--<a class="share-button-google-plus" title="Google+" href="https://plus.google.com/share?url=https%3A%2F%2Fwww.finna.fi%2FRecord%2Fsiiri.urn%3Anbn%3Afi-vapriikkihttp%25253A%25252F%25252Fwww.profium.com%25252Farchive%25252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8%3Flng%3Dfi" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>-->
+  </div>
+</li>
+    </ul>
+</div>
+<!-- END of: finna - RecordDriver/DefaultRecord/toolbar.phtml -->
+  </div>
+  <div class="record-main ">
+    <input type="hidden" value="siiri.urn&#x3A;nbn&#x3A;fi-vapriikkihttp&#x25;3A&#x25;2F&#x25;2Fwww.profium.com&#x25;2Farchive&#x25;2FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8" class="hiddenId" />
+    <input type="hidden" value="Solr" class="hiddenSource" />
+            <!-- START of: finna - RecordDriver/SolrLido/core.phtml -->
+    <div class="media" vocab="http://schema.org/" resource="#record" typeof="CreativeWork Product">
+    <h1 property="name" class="record-title visible-xs">Tredu Sammonkatu, pääaula, portaat kolmanteen kerrokseen.  </h1>
+            <div class="media-left">
+
+    <div class="image-information">
+  <div class="cover-wrapper">
+              <!-- START of: finna - RecordDriver/DefaultRecord/record-image.phtml -->
+<div class="record-image-container ">
+  <div class="recordcover-holder paginate" aria-hidden="true" data-format="Kuva" data-noimage="Ei esikatselukuvaa">
+    <!-- START of: finna - RecordDriver/DefaultRecord/record-image-paginator.phtml -->
+                      <div class="recordcover-container">
+        <button class="next-image left" type="button"><i class="fa fa-chevron-left"></i></button>
+        <a class="image-popup-trigger" href="/Record/siiri.urn:nbn:fi-vapriikkihttp%253A%252F%252Fwww.profium.com%252Farchive%252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8#image">
+          <div class="iconlabel format-1imageimage"></div>
+          <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="/Cover/Unavailable" class="recordcover" alt="Ei kansikuvaa"/>
+          <div class="paginator-info"><span class="image-index"></span></div>
+        </a>
+        <a class="hidden-trigger" href="#" style="display: none;">
+          Piilotettu        </a>
+        <button class="next-image right" type="button"><i class="fa fa-chevron-right"></i></button>
+      </div>
+        <div class="recordcover-image-detail">
+    <p class="image-description">
+    </p>
+  </div>
+  <div class="recordcovers record">
+    <button class="left-button" type="button" aria-label="Selaa vasemmalle"><i class="fa fa-handle-left"></i></button>
+    <div class="track-holder paginator-mask">
+      <div class="finna-element-track"></div>
+    </div>
+    <button class="right-button" type="button" aria-label="Selaa oikealle"><i class="fa fa-handle-right"></i></button>
+    <div class="paginator-info"><span class="image-index"></span></div>
+  </div>
+  <div class="recordcovers-more more-area">
+    <button type="button" class="show-more-images">lisää <i class="fa fa-arrow-down"></i></button>
+    <button type="button" class="show-less-images">vähemmän <i class="fa fa-arrow-up"></i></button>
+  </div>
+      <script>
+            finna.imagePaginator.initPaginator(
+        [{"small":"\/Cover\/Show?id=siiri.urn%3Anbn%3Afi-vapriikkihttp%253A%252F%252Fwww.profium.com%252Farchive%252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8&index=0&size=small&w=100&h=100","medium":"\/Cover\/Show?id=siiri.urn%3Anbn%3Afi-vapriikkihttp%253A%252F%252Fwww.profium.com%252Farchive%252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8&index=0&size=medium&w=1200&h=1200","largest":"\/Cover\/Show?id=siiri.urn%3Anbn%3Afi-vapriikkihttp%253A%252F%252Fwww.profium.com%252Farchive%252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8&index=0&size=large","index":0,"alt":"Kansikuva","description":"","title":"Kuva 1"}],
+        {"recordId":"siiri.urn:nbn:fi-vapriikkihttp%3A%2F%2Fwww.profium.com%2Farchive%2FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8","recordType":"lido","imagesPerPage":8,"imagesOnMobile":6,"imagesOnNormal":8,"imagesOnPopup":8,"enableImageZoom":true,"maxRows":3,"iconlabelClass":"format-1imageimage","isList":false}      );
+    </script>
+  <!-- END of: finna - RecordDriver/DefaultRecord/record-image-paginator.phtml -->
+  </div>
+                      <div class="image-details-container text-left" data-img-index="0">
+                          <div class="image-link">
+                      </div>
+                      <p class="image-rights-default">Kuvaan voi liittyä käytön rajoituksia.</p>
+                        <!-- START of: finna - RecordDriver/DefaultRecord/image-rights.phtml -->
+<div class="access-rights">
+    <div class="copyright truncate-field">
+      </div>
+      <p><a href="/Content/terms#image_rights"><i class="fa fa-arrow-right"></i>Katso käyttöehdot</a></p>
+  </div>
+<!-- END of: finna - RecordDriver/DefaultRecord/image-rights.phtml -->
+      </div>
+      </div>
+
+<!-- END of: finna - RecordDriver/DefaultRecord/record-image.phtml -->
+                      <div class="visible-print inline-block"><img alt="QR-koodi" class="qrcode" src="&#x2F;QRCode&#x2F;Show&#x3F;text&#x3D;https&#x25;3A&#x25;2F&#x25;2Fwww.finna.fi&#x25;2FRecord&#x25;2Fsiiri.urn&#x25;3Anbn&#x25;3Afi-vapriikkihttp&#x25;25253A&#x25;25252F&#x25;25252Fwww.profium.com&#x25;25252Farchive&#x25;25252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8&amp;level&#x3D;L&amp;size&#x3D;3&amp;margin&#x3D;4"/></div>
+      </div>
+    </div>
+
+    
+    
+          <div class="organisation-menu">
+          <!-- START of: finna - record/record-organisation-menu.phtml -->
+<div class="recordProvidedBy">
+  <h2 class="record-organisation-header">
+          Aineistosta vastaa      </h1>
+  <div class="record-organisation-box">
+     <ul class="record-type organisations">
+                  <li class="record-organisation"><span class="organisation-name">Museokeskus Vapriikki</span>
+                <ul class="record-organisation-info">
+                          <li class="organisation-page-link" data-organisation="Siiri" data-organisation-name="Tampereen&#x20;museot&#x20;&#x28;Siiri&#x29;"data-organisation-sector=0/mus/></li>          <li><a href="/Record/siiri.urn:nbn:fi-vapriikkihttp%253A%252F%252Fwww.profium.com%252Farchive%252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8/Feedback" data-lightbox class="btn btn-primary feedback-record">Ota yhteyttä</a></li>
+        </ul>
+      </li>
+    </ul>
+      </div>
+</div>
+<!-- END of: finna - record/record-organisation-menu.phtml -->
+      </div>
+    
+    <div class="record-rating text-left">
+  <div class="rating-stars">
+    <div onclick="$('a.usercomments').click();">
+            </div>
+  </div>
+</div>
+  <div>
+    <div class="record-post-toolbar">
+      <!-- START of: finna - layout/Additions/record-post-toolbar.phtml -->
+
+<!-- END of: finna - layout/Additions/record-post-toolbar.phtml -->
+    </div>
+  </div>
+  </div>
+            <div class="media-body record-information">
+        <h1 property="name" class="record-title hidden-xs">Tredu Sammonkatu, pääaula, portaat kolmanteen kerrokseen.  </h3>
+        
+        <div class="record-core-metadata">
+                      <div class="truncate-field">
+                              <a href="/Search/Results?lookfor=Mirkku+Haapasaari&amp;type=Author">Mirkku Haapasaari</a><span class="author-role">, valokuvaaja</span>                                                      </div>
+                  </div>
+
+                
+                            <div class="savedLists" id="savedLists">
+            <strong>Tallennettuna:</strong>
+          </div>
+        
+                                  <table class="table table-finna-record record-details">
+            <!-- START of: finna - RecordDriver/DefaultRecord/core-fields.phtml -->
+        <tr class="recordFormat"><th>Aineistotyyppi</th><td><span class="label label-info iconlabel format-1imageimage">Kuva</span></td></tr>
+          <tr class="recordInstitution"><th>Organisaatio</th><td>Museokeskus Vapriikki</td></tr>
+          <tr class="recordIdentifier"><th>Inventaarionro</th><td><div class="truncate-field" data-rows="5">
+              Kyy 166:108<br/>
+          </div></td></tr>
+          <tr class="recordEvents">
+    <th>Kuvaustiedot:</th>
+    <td>
+      <div class="truncate-field">
+                              2015-11-24<br/>                                  Kaleva, Sammonkatu 45<br/>Tampere, Suomi<br/>
+                                              Mirkku Haapasaari, valokuvaaja                    <br/>
+                            </div>
+    </td>
+  </tr>          <tr class="recordSubjects"><th>Aiheet</th><td><div class="truncate-field" data-rows="5">
+    <div class="subjectLine" property="keywords">
+                              <a class="backlink" title="ammattioppilaitokset" href="/Search/Results?lookfor=%22ammattioppilaitokset%22&amp;type=Subject">
+        ammattioppilaitokset      </a>
+      </div>
+    <div class="subjectLine" property="keywords">
+                              <a class="backlink" title="rakennukset" href="/Search/Results?lookfor=%22rakennukset%22&amp;type=Subject">
+        rakennukset      </a>
+      </div>
+    <div class="subjectLine" property="keywords">
+                              <a class="backlink" title="kauppaoppilaitokset" href="/Search/Results?lookfor=%22kauppaoppilaitokset%22&amp;type=Subject">
+        kauppaoppilaitokset      </a>
+      </div>
+    <div class="subjectLine" property="keywords">
+                              <a class="backlink" title="2015-11-24" href="/Search/Results?lookfor=%222015-11-24%22&amp;type=Subject">
+        2015-11-24      </a>
+      </div>
+  </div></td></tr>
+          <tr class="record-available-online"><th>Verkossa saatavilla</th><td><a href="http&#x3A;&#x2F;&#x2F;siiri.tampere.fi&#x2F;displayObject.do&#x3F;uri&#x3D;http&#x25;3A&#x25;2F&#x25;2Fwww.profium.com&#x25;2Farchive&#x25;2FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8" title="http&#x3A;&#x2F;&#x2F;siiri.tampere.fi&#x2F;displayObject.do&#x3F;uri&#x3D;http&#x25;3A&#x25;2F&#x25;2Fwww.profium.com&#x25;2Farchive&#x25;2FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8" target="_blank">siiri.tampere.fi/displayO...E0D6B8036ED8</a><br/></td></tr>
+  <!-- END of: finna - RecordDriver/DefaultRecord/core-fields.phtml -->
+          </table>
+                
+                <div>
+          <!-- START of: finna - layout/Additions/record-post-metadata.phtml -->
+
+<!-- END of: finna - layout/Additions/record-post-metadata.phtml -->
+        </div>
+              </div>
+    </div>
+<!-- END of: finna - RecordDriver/SolrLido/core.phtml -->
+
+    <span class="Z3988" title="url_ver&#x3D;Z39.88-2004&amp;ctx_ver&#x3D;Z39.88-2004&amp;ctx_enc&#x3D;info&#x25;3Aofi&#x25;2Fenc&#x25;3AUTF-8&amp;rfr_id&#x3D;info&#x25;3Asid&#x25;2Ffinna.fi&#x25;3Agenerator&amp;rft.title&#x3D;Tredu&#x2B;Sammonkatu&#x25;2C&#x2B;p&#x25;C3&#x25;A4&#x25;C3&#x25;A4aula&#x25;2C&#x2B;portaat&#x2B;kolmanteen&#x2B;kerrokseen.&amp;rft.date&#x3D;&amp;rft_val_fmt&#x3D;info&#x25;3Aofi&#x25;2Ffmt&#x25;3Akev&#x25;3Amtx&#x25;3Adc&amp;rft.creator&#x3D;Mirkku&#x2B;Haapasaari&#x25;2C&#x2B;valokuvaaja&amp;rft.format&#x3D;Image"></span>  </div>
+
+  
+  <div class="sidebar right smaller-image-sidebar hidden-xs hidden-sm">
+                      <div class="organisation-menu">
+          <!-- START of: finna - record/record-organisation-menu.phtml -->
+<div class="recordProvidedBy">
+  <h2 class="record-organisation-header">
+          Aineistosta vastaa      </h1>
+  <div class="record-organisation-box">
+     <ul class="record-type organisations">
+                  <li class="record-organisation"><span class="organisation-name">Museokeskus Vapriikki</span>
+                <ul class="record-organisation-info">
+                          <li class="organisation-page-link" data-organisation="Siiri" data-organisation-name="Tampereen&#x20;museot&#x20;&#x28;Siiri&#x29;"data-organisation-sector=0/mus/></li>          <li><a href="/Record/siiri.urn:nbn:fi-vapriikkihttp%253A%252F%252Fwww.profium.com%252Farchive%252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8/Feedback" data-lightbox class="btn btn-primary feedback-record">Ota yhteyttä</a></li>
+        </ul>
+      </li>
+    </ul>
+      </div>
+</div>
+<!-- END of: finna - record/record-organisation-menu.phtml -->
+      </div>
+                <!-- START of: finna - Related/SimilarDeferred.phtml -->
+<div class="similar-records" data-id="siiri.urn&#x3A;nbn&#x3A;fi-vapriikkihttp&#x25;3A&#x25;2F&#x25;2Fwww.profium.com&#x25;2Farchive&#x25;2FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8">
+  <i class="fa fa-spinner fa-spin"></i>
+</div>
+<!-- END of: finna - Related/SimilarDeferred.phtml -->
+              <div>
+          <!-- START of: finna - layout/Additions/record-post-recommendations.phtml -->
+
+<!-- END of: finna - layout/Additions/record-post-recommendations.phtml -->
+      </div>
+            </div>
+
+  <div class="clearfix hidden-lg hidden-md"></div>
+
+  <div class="record-tabs record-accordions">
+          <a id="tabnav"></a>
+                <ul class="recordTabs nav nav-tabs visible-md visible-lg">
+                                  <li class="record-tab usercomments initiallyActive" data-tab="usercomments">
+              <a class="usercomments" aria-label="Kommentit"
+                href="/Record/siiri.urn:nbn:fi-vapriikkihttp%253A%252F%252Fwww.profium.com%252Farchive%252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8/UserComments#tabnav">
+                                Kommentit (<span class="count">0</span>)              </a>
+            </li>
+                                  <li class="record-tab map" data-tab="map">
+              <a class="map" aria-label="Karttan&#xE4;kym&#xE4;"
+                href="/Record/siiri.urn:nbn:fi-vapriikkihttp%253A%252F%252Fwww.profium.com%252Farchive%252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8/Map#tabnav">
+                                Karttanäkymä              </a>
+            </li>
+                                  <li class="record-tab details hidden-xs tab-right" data-tab="details">
+              <a class="details" aria-label="Henkil&#xF6;kuntan&#xE4;ytt&#xF6;"
+                href="/Record/siiri.urn:nbn:fi-vapriikkihttp%253A%252F%252Fwww.profium.com%252Farchive%252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8/Details#tabnav">
+                <i class="fa fa-lg fa-Details"></i>                              </a>
+            </li>
+                  </ul>
+            
+    <div class="record-accordions">
+                      <div class="accordion accordion-usercomments initiallyActive">
+          <div class="accordion-toggle">
+            <a data-tab="usercomments" class="accordion-title"
+              href="/Record/siiri.urn:nbn:fi-vapriikkihttp%253A%252F%252Fwww.profium.com%252Farchive%252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8/UserComments#tabnav"            >
+              <span class="title">Kommentit (<span class="count">0</span>)</span>
+              <i class="icon"></i>
+            </a>
+          </div>
+        </div>
+                      <div class="accordion accordion-map">
+          <div class="accordion-toggle">
+            <a data-tab="map" class="accordion-title"
+              href="/Record/siiri.urn:nbn:fi-vapriikkihttp%253A%252F%252Fwww.profium.com%252Farchive%252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8/Map#tabnav"            >
+              <span class="title">Karttanäkymä</span>
+              <i class="icon"></i>
+            </a>
+          </div>
+        </div>
+                      <div class="accordion accordion-details">
+          <div class="accordion-toggle">
+            <a data-tab="details" class="accordion-title"
+              href="/Record/siiri.urn:nbn:fi-vapriikkihttp%253A%252F%252Fwww.profium.com%252Farchive%252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8/Details#tabnav"            >
+              <span class="title">Henkilökuntanäyttö</span>
+              <i class="icon"></i>
+            </a>
+          </div>
+        </div>
+          </div>
+
+    <div class="tab-content">
+          </div>
+
+    <div class="clearfix hidden-lg hidden-md"></div>
+  </div>
+
+  <div class="sidebar left large-image-sidebar ">
+                      <div class="organisation-menu">
+          <!-- START of: finna - record/record-organisation-menu.phtml -->
+<div class="recordProvidedBy">
+  <h2 class="record-organisation-header">
+          Aineistosta vastaa      </h1>
+  <div class="record-organisation-box">
+     <ul class="record-type organisations">
+                  <li class="record-organisation"><span class="organisation-name">Museokeskus Vapriikki</span>
+                <ul class="record-organisation-info">
+                          <li class="organisation-page-link" data-organisation="Siiri" data-organisation-name="Tampereen&#x20;museot&#x20;&#x28;Siiri&#x29;"data-organisation-sector=0/mus/></li>          <li><a href="/Record/siiri.urn:nbn:fi-vapriikkihttp%253A%252F%252Fwww.profium.com%252Farchive%252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8/Feedback" data-lightbox class="btn btn-primary feedback-record">Ota yhteyttä</a></li>
+        </ul>
+      </li>
+    </ul>
+      </div>
+</div>
+<!-- END of: finna - record/record-organisation-menu.phtml -->
+      </div>
+                <!-- START of: finna - Related/SimilarDeferred.phtml -->
+<div class="similar-records" data-id="siiri.urn&#x3A;nbn&#x3A;fi-vapriikkihttp&#x25;3A&#x25;2F&#x25;2Fwww.profium.com&#x25;2Farchive&#x25;2FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8">
+  <i class="fa fa-spinner fa-spin"></i>
+</div>
+<!-- END of: finna - Related/SimilarDeferred.phtml -->
+              <div>
+          <!-- START of: finna - layout/Additions/record-post-recommendations.phtml -->
+
+<!-- END of: finna - layout/Additions/record-post-recommendations.phtml -->
+      </div>
+            </div>
+
+  </div>
+</div>
+<!-- START of: finna - RecordDriver/DefaultRecord/toolbar_mobile.phtml -->
+<div class="visible-xs">
+  <div class="mobile-toolbar">
+    <ul class="nav nav-pills mobile-actions hidden-print">
+                    <li><a class="save-record-mobile" data-lightbox href="/Record/siiri.urn:nbn:fi-vapriikkihttp%253A%252F%252Fwww.profium.com%252Farchive%252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8/Save" title="Lisää suosikkeihin" rel="nofollow"><i class="fa fa-plus"></i> <span class="sr-only">Lisää suosikkeihin</span></a></li>
+          
+          
+                    <li class="dropdown dropup">
+            <a class="export-toggle dropdown-toggle" data-toggle="dropdown" href="/Record/siiri.urn:nbn:fi-vapriikkihttp%253A%252F%252Fwww.profium.com%252Farchive%252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8/Export" rel="nofollow"><i class="fa fa-list-alt"></i> <span class="sr-only">Vie viite</span></a>
+            <ul class="dropdown-menu" role="menu">
+                            <li class="export-list"><a href="/Record/siiri.urn:nbn:fi-vapriikkihttp%253A%252F%252Fwww.profium.com%252Farchive%252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8/Export?style=RefWorks">Vienti:  RefWorks</a></li>
+                            <li class="export-list"><a target="EndNoteWebMain" href="/Record/siiri.urn:nbn:fi-vapriikkihttp%253A%252F%252Fwww.profium.com%252Farchive%252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8/Export?style=EndNoteWeb">Vienti:  EndNoteWeb</a></li>
+                            <li class="export-list"><a href="/Record/siiri.urn:nbn:fi-vapriikkihttp%253A%252F%252Fwww.profium.com%252Farchive%252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8/Export?style=EndNote">Vienti:  EndNote</a></li>
+                            <li class="export-list"><a href="/Record/siiri.urn:nbn:fi-vapriikkihttp%253A%252F%252Fwww.profium.com%252Farchive%252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8/Export?style=BibTeX">Vienti:  BibTeX</a></li>
+                            <li class="export-list"><a href="/Record/siiri.urn:nbn:fi-vapriikkihttp%253A%252F%252Fwww.profium.com%252Farchive%252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8/Export?style=RIS">Vienti:  RIS</a></li>
+                          </ul>
+          </li>
+          
+                    <li><a class="cite-record-mobile" data-lightbox href="/Record/siiri.urn:nbn:fi-vapriikkihttp%253A%252F%252Fwww.profium.com%252Farchive%252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8/Cite" title="Viitetiedot" rel="nofollow"><i class="fa fa-asterisk"></i> <span class="sr-only">Viitetiedot</span></a></li>
+          
+          <li class="hidden-xs hidden-sm"><a href="javascript:window.print()"><i class="fa fa-print" rel="nofollow"></i> Tulosta</a></li>
+    </ul>
+    <ul class="nav nav-pills hidden-print mobile-sharing">
+      <li class="dropdown dropup">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="#" rel="nofollow"><i class="fa fa-bookmark"></i><span class="hidden-xs"> Share</span></a>
+        <ul class="dropdown-menu" role="menu">
+                      <li class="share-buttons addthis-share-buttons">
+  <div class="share-buttons-toolbox addthis_toolbox addthis_default_style">
+    <a class="share-button-facebook" title="Facebook" aria-label="Facebook" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.finna.fi%2FRecord%2Fsiiri.urn%3Anbn%3Afi-vapriikkihttp%25253A%25252F%25252Fwww.profium.com%25252Farchive%25252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8%3Flng%3Dfi&amp;title=Tredu+Sammonkatu%2C+p%C3%A4%C3%A4aula%2C+portaat+kolmanteen+kerrokseen." target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+    <a class="share-button-twitter" title="Twitter" aria-label="Twitter" href="https://twitter.com/share?url=https%3A%2F%2Fwww.finna.fi%2FRecord%2Fsiiri.urn%3Anbn%3Afi-vapriikkihttp%25253A%25252F%25252Fwww.profium.com%25252Farchive%25252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8%3Flng%3Dfi&amp;text=Tredu+Sammonkatu%2C+p%C3%A4%C3%A4aula%2C+portaat+kolmanteen+kerrokseen." target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+    <a class="share-button-pinterest" title="Pinterest" aria-label="Pinterest" href="https://pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.finna.fi%2FRecord%2Fsiiri.urn%3Anbn%3Afi-vapriikkihttp%25253A%25252F%25252Fwww.profium.com%25252Farchive%25252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8%3Flng%3Dfi&amp;is_video=0&amp;description=Tredu+Sammonkatu%2C+p%C3%A4%C3%A4aula%2C+portaat+kolmanteen+kerrokseen." target="_blank"><i class="fa fa-pinterest" aria-hidden="true"></i></a>
+    <!--<a class="share-button-google-plus" title="Google+" href="https://plus.google.com/share?url=https%3A%2F%2Fwww.finna.fi%2FRecord%2Fsiiri.urn%3Anbn%3Afi-vapriikkihttp%25253A%25252F%25252Fwww.profium.com%25252Farchive%25252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8%3Flng%3Dfi" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>-->
+  </div>
+</li>
+                        <!--
+            <meta property="og:title" content="Tredu Sammonkatu, pääaula, portaat kolmanteen kerrokseen." />
+            <meta property="og:description" content="Kuva" />            <meta property="article:author" content="" />                        <meta property="og:image" content="http&#x3A;&#x2F;&#x2F;siiri.tampere.fi&#x2F;displayContent.do&#x3F;uri&#x3D;http&#x25;3A&#x25;2F&#x25;2Fsiiri.tampere.fi&#x25;2Fcontent&#x25;2F20151201&#x25;2F14489774152110.JPG&amp;type&#x3D;big" />
+            -->
+          <li class="whatsapp">
+            <span class="visible-xs"><a class="whatsapp-record" href="whatsapp://send?text=https%3A%2F%2Fwww.finna.fi%2FRecord%2Fsiiri.urn%3Anbn%3Afi-vapriikkihttp%25253A%25252F%25252Fwww.profium.com%25252Farchive%25252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8" data-action="share/whatsapp/share" rel="nofollow"><i class="fa fa-phone"></i><span class="sr-only">Whatsapp</span></a></span>
+          </li>
+                    <li class="mail-record"><a class="mail-record-mobile" data-lightbox href="/Record/siiri.urn:nbn:fi-vapriikkihttp%253A%252F%252Fwww.profium.com%252Farchive%252FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8/Email" title="Lähetä sähköpostilla" rel="nofollow"><i class="fa fa-envelope"></i> <span class="sr-only">Lähetä sähköpostilla</span></a></li>
+        </ul>
+      </li>
+    </ul>
+    <ul class="nav nav-pills library-link">
+      <li class="hidden">
+        Saatavuustiedot      </li>
+    </ul>
+  </div>
+</div>
+<!-- END of: finna - RecordDriver/DefaultRecord/toolbar_mobile.phtml -->
+<div>
+<script >
+    //<!--
+    $(document).ready(recordDocReady);
+    //-->
+</script><!-- END of: finna - record/view.phtml -->
+      </div>
+    </section>
+    <footer class="hidden-print">
+      <div class="container">
+        <!-- START of: national - footer.phtml -->
+<div class="row">
+  <div class="col-sm-3">
+    <h5><strong>Tietoa</strong></h5>
+    <ul>
+      <li><a href="/Content/organisations">Ketkä ovat mukana?</a></li>
+      <li><a href="/Content/about">Mikä Finna on?</a></li>
+      <li><a href="/Content/terms">Aineiston käyttöehdot</a></li>
+      <li><a href="/Content/privacy">Tietosuoja</a></li>
+              <li><a href="https://api.finna.fi/" target="_blank">Finna API</a></li>
+                        
+    </ul>
+  </div>
+  <div class="col-sm-3">
+    <h5><strong>Hae lisää</strong></h5>
+    <ul>
+      <li><a href="/Search/History">Hakuhistoria</a></li>
+      <li><a href="/Search/Advanced">Tarkennettu haku</a></li>
+    </ul>
+  </div>
+  <div class="col-sm-3">
+    <h5><strong>Tarvitsetko apua?</strong></h5>
+    <ul>
+      <li><a href="/Content/help" title="Ohje">Ohje</a></li>
+      <li><a href="/Feedback/Home">Palaute</a></li>
+    </ul>
+  </div>
+  <div class="col-sm-3">
+  </div>
+</div>
+<hr>
+<div class="row">
+  <div class="col-sm-3">
+            <a href="/"><img src="/themes/finna2/images/powered-by-finna_fi-black.png?_=1567684367" alt="Finna-logo" /></a><br><br>
+              </div>
+  <div class="col-sm-3">
+      <a href="https://vufind.org/" title=""><img src="/themes/finna2/images/vufind-logo-black.png?_=1567684367" alt="Vufind-logo" /></a>
+  </div>
+  <div class="col-sm-3">
+  </div>
+  <div class="col-sm-3">
+  </div>
+</div>
+<!-- END of: national - footer.phtml -->
+              </div>
+    </footer>
+        <script >
+    //<!--
+    
+function initVuFindPiwikTracker1570614504979(){
+    var VuFindPiwikTracker = Piwik.getTracker();
+
+    VuFindPiwikTracker.setSiteId(1);
+    VuFindPiwikTracker.setTrackerUrl('https://piwik.finna.fi/piwik.php');
+    VuFindPiwikTracker.setCustomUrl('https\x3A\x2F\x2Fwww.finna.fi\x2FRecord\x2Fsiiri.urn\x3Anbn\x3Afi\x2Dvapriikkihttp\x25253A\x25252F\x25252Fwww.profium.com\x25252Farchive\x25252FArchivedObject\x2D6ADC80F9\x2D46E7\x2DBC4D\x2D8B9A\x2DE0D6B8036ED8');
+    VuFindPiwikTracker.setCustomVariable(1, 'RecordFormat', 'Image&#x2F;Image', 'page');
+    VuFindPiwikTracker.setCustomVariable(2, 'RecordData', 'siiri.urn&#x3A;nbn&#x3A;fi-vapriikkihttp&#x25;3A&#x25;2F&#x25;2Fwww.profium.com&#x25;2Farchive&#x25;2FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8&#x7C;Mirkku&#x20;Haapasaari,&#x20;valokuvaaja&#x7C;Tredu&#x20;Sammonkatu,&#x20;p&#xE4;&#xE4;aula,&#x20;portaat&#x20;kolmanteen&#x20;kerrokseen.', 'page');
+    VuFindPiwikTracker.setCustomVariable(3, 'RecordInstitution', 'Museokeskus&#x20;Vapriikki', 'page');
+    VuFindPiwikTracker.setCustomVariable(6, 'RecordIndex', 'Local', 'page');
+    VuFindPiwikTracker.setCustomVariable(7, 'Language', 'fi', 'page');
+    VuFindPiwikTracker.setCustomVariable(8, 'RecordAvailableOnline', 'yes', 'page');
+    VuFindPiwikTracker.setCustomVariable(9, 'RecordDataOnline', 'siiri.urn&#x3A;nbn&#x3A;fi-vapriikkihttp&#x25;3A&#x25;2F&#x25;2Fwww.profium.com&#x25;2Farchive&#x25;2FArchivedObject-6ADC80F9-46E7-BC4D-8B9A-E0D6B8036ED8&#x7C;Mirkku&#x20;Haapasaari,&#x20;valokuvaaja&#x7C;Tredu&#x20;Sammonkatu,&#x20;p&#xE4;&#xE4;aula,&#x20;portaat&#x20;kolmanteen&#x20;kerrokseen.', 'page');
+    VuFindPiwikTracker.trackPageView();
+    VuFindPiwikTracker.enableLinkTracking();
+};
+(function(){
+    if (typeof Piwik === 'undefined') {
+        var d=document, g=d.createElement('script'),
+            s=d.getElementsByTagName('script')[0];
+        g.type='text/javascript'; g.defer=true; g.async=true;
+        g.src='https://piwik.finna.fi/piwik.js';
+        g.onload=initVuFindPiwikTracker1570614504979;
+        s.parentNode.insertBefore(g,s);
+    } else {
+        initVuFindPiwikTracker1570614504979();
+    }
+})();
+    //-->
+</script>          <div class="container-fluid general-post-body">
+        <div class="container">
+          <div>
+            <div>
+              <!-- START of: finna - layout/Additions/general-post-body.phtml -->
+
+<!-- END of: finna - layout/Additions/general-post-body.phtml -->
+            </div>
+          </div>
+        </div>
+      </div>
+    
+      </body>
+</html>
+<!-- END of: finna - layout/layout.phtml -->

@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(26, 116, 26);
+    font-family: "Verdana", 'Arical';
+    margin: 30px;
+    }
+    
+    h1{
+        color: #DC143C; 
+        font-family: "Trebuchet MS", Helvetica, sans-serif;
+      }        
+
+    p.esimerkki {
+        background-color: black;
+        color: white;
+        font-family: courier;
+        padding: 30px;
+                }
+
+        h2{
+        color: #DC143C; 
+        font-family: "Trebuchet MS", Helvetica, sans-serif;
+      }        

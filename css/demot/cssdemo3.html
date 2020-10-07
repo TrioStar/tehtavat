@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<head>
+<meta charset="UTF-8">
+<title>Bootstrap, responsiivinen demo</title>
+<meta name="viewport" 
+content="width=device-width, initial-scale=1">
+<link rel="stylesheet" 
+href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+
+
+<link rel="stylesheet" href="bsoma.css">
+
+
+
+</head>
+<body>
+        <nav class="navbar navbar-expand-md bg-dark navbar-dark">
+                <!-- Brand -->
+                <a class="navbar-brand" href="#">Navbar</a>
+              
+                <!-- Toggler/collapsibe Button -->
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+                  <span class="navbar-toggler-icon"></span>
+                </button>
+              
+                <!-- Navbar links -->
+                <div class="collapse navbar-collapse" id="collapsibleNavbar">
+                  <ul class="navbar-nav">
+                    <li class="nav-item">
+                      <a class="nav-link" href="#">kotisivu</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#">tietoja</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#">joku</a>
+                    </li>
+                  </ul>
+                </div>
+              </nav>
+
+<div id="container">
+
+    <div id="jumbotron">
+        <h1>Iso alkulohko</h1>
+        <p>Tekstiä ...tämä demo soveltaa Bootstrap-materiaalia <a href="http://www.tutorialrepublic.com/codelab.php?topic=bootstrap&file=responsive-layout" target="_blank">tutorialrepublicin sivulla</a></p>
+       </div>
+    
+       <div class="row"> <!--rivi, sisällä monta saraketta, näytötsä 
+        riipuen joka vierekkäin ja alekkain-->
+        
+
+        <div class="col-lg-2 col-md-4 col-sm-6 col-xs-12 punainen">
+            <h2>HTML</h2>
+            <p>HTML on merkkauskieli, jota käytetään www-sivujen luomisessa.</p>
+        </div>
+
+
+        <div class="col-lg-2 col-mg-4 col-sm-6 col-xs12 sininen">
+            <h2>CSS</h2>
+            <p>CSS:ää käytetään luomaan ulkoasu www-sivuille.</p>
+        </div>
+        
+
+        <div class="clearfix visibl-sm-block"></div>
+
+
+        <div class="col-lg-2 col-mg-4 col-sm-6 col-xs12 vihrea">
+            <h2>Bootstrap</h2>
+            <p>Bootstrap on voimakas työkalu nopeaan www-kehitykseen.</p>
+		</div>
+        <div>
+           <h2>Esimerkkejä</h2>
+           <p><a href="http://www.tutorialrepublic.com/twitter-bootstrap-examples.php" target="_blank">Esimerkit</a></p>
+        
+
+        </div>
+
+     </div><!-- rivi loppuu-->
+    <hr>
+
+    <div>
+        <div>
+            <footer>
+                <p>LJN</p>
+            </footer>
+        </div>
+    </div>
+</div>
+</body>

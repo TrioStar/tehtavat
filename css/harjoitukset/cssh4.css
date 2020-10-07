@@ -1,0 +1,36 @@
+body {
+    background-color: gray;
+    margin: auto;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+    border: 1px;
+}
+
+div {
+    transform: translate(500px,0px);
+    text-align: center;
+    color: #15ff00;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    border: solid 2px;
+    background-color: rgb(255, 0, 0); 
+    width: 75px;
+    height: 75px;
+    position: absolute ;
+    animation-duration: 4s;
+}
+
+header {
+    text-align: center;
+    transform: translate(470px,140px);
+    color: #15ff00;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    border: solid 2px;
+    background-color: rgb(17, 0, 255); 
+    width: 75px;
+    height: 75px;
+}
