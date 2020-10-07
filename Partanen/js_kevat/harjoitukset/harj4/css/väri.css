@@ -1,0 +1,50 @@
+.red {
+    color: #A8202F;
+    font-size:2.0em;
+}
+
+.violet {
+    color: blueviolet;
+    font-size:2.0em;
+    border: wheat;
+}
+
+.orange {
+    color: #E16519;
+     font-size:2.0em;
+}
+
+.green {
+    color: #6ADA8F;
+    font-size:2.0em;
+}
+
+.blue {
+    color: #056EC3;
+    font-size:2.0em;
+}
+
+.white {
+    color: #ffffff;
+}
+
+.red2 {
+    color: red;
+    font-size:2.0em;
+}
+
+.blue2 {
+    color: blue;
+}
+
+.green2 {
+    color: green;
+}
+
+.yellow {
+    color: yellowgreen;
+}
+
+body {
+    background-image: url(../pic/food_list.jpg);
+}
